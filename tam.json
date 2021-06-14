@@ -1,17 +1,17 @@
 {
 	"setting": {
-		"options": "Options",
+		"options": "விருப்பத்தேர்வுகள்",
 		"plugin": "சொருகிணைப்பு",
 		"builtin-plugins": "Core plugins",
 		"plugin-options": "Plugin options",
 		"folder-path-example-placeholder": "Example: கோப்புறை 1/கோப்புறை 2",
 		"file-path-example-placeholder": "Example: கோப்புறை/குறிப்பு",
 		"editor": {
-			"name": "Editor",
-			"option-spellcheck": "Spell check",
-			"option-spellcheck-description": "Turns on the spell checker. Currently only works for English (US).",
-			"spellcheck-dict": "Spellcheck dictionary",
-			"spellcheck-dict-empty": "The spellcheck dictionary is empty.",
+			"name": "திருத்து",
+			"option-spellcheck": "சொல் சரிபார்",
+			"option-spellcheck-description": "சொல் சரிபார்த்தலை தொடங்கும். தற்பொழுது ஆங்கிலத்திற்கு(US) மட்டுமே உள்ளது ",
+			"spellcheck-dict": "சொல் சரிபார்த்தல் அகராதி",
+			"spellcheck-dict-empty": "சொல் சரிபார்த்தல் அகராதியில் ஒன்றுமில்லை.",
 			"option-readable-line-length": "Readable line length",
 			"option-readable-line-description": "Limit maximum line length. Fits less content on the screen, but makes long paragraphs more readable.",
 			"option-strict-line-break": "Strict line breaks",
